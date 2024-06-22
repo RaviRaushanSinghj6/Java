@@ -1,13 +1,12 @@
 package OOPS;
 
-class Class_Creation
-{
+class Class_Creation {
     String Name;
     int Roll_no;
     int age;
 }
-class Main
-{
+
+class Call_Class_Creation {
     public static void main(String[] args) {
         Class_Creation obj1 = new Class_Creation();
         obj1.Name = "Ravi";

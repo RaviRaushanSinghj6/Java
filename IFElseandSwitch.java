@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class IFElseandSwitch {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
@@ -6,12 +7,9 @@ public class IFElseandSwitch {
         int num = s.nextInt();
 
 
-        if(num%2 ==0)
-        {
+        if (num % 2 == 0) {
             System.out.println("Even Number");
-        }
-        else
-        {
+        } else {
             System.out.println("Odd number");
         }
     }

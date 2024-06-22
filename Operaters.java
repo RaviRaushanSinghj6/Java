@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Operaters {
     public static void main(String[] args) {
 
@@ -10,31 +11,31 @@ public class Operaters {
         int q = s.nextInt();
 
         System.out.println("Arithmetic Operators");
-        System.out.println(p+q);
-        System.out.println(p-q);
-        System.out.println(p*q);
-        System.out.println(p/q);
-        System.out.println(p%q);
+        System.out.println(p + q);
+        System.out.println(p - q);
+        System.out.println(p * q);
+        System.out.println(p / q);
+        System.out.println(p % q);
         System.out.println("Relational Operator");
-        System.out.println(p=q);
-        System.out.println(p==q);
-        System.out.println(p!=q);
-        System.out.println(p>q);
-        System.out.println(p<q);
-        System.out.println(p<=q);
-        System.out.println(p>=q);
+        System.out.println(p = q);
+        System.out.println(p == q);
+        System.out.println(p != q);
+        System.out.println(p > q);
+        System.out.println(p < q);
+        System.out.println(p <= q);
+        System.out.println(p >= q);
         System.out.println("Logical Operators");
-        System.out.println(p>q && p>=q);
-        System.out.println(p>q || p<=q);
-        System.out.println(!(p>q));
+        System.out.println(p > q && p >= q);
+        System.out.println(p > q || p <= q);
+        System.out.println(!(p > q));
         System.out.println("Assignment Operators");
-        p =5;
-        q =10;
-        System.out.println(p=q);
-        System.out.println(p+=q);
-        System.out.println(p-=q);
-        System.out.println(p*=q);
-        System.out.println(p/=q);
+        p = 5;
+        q = 10;
+        System.out.println(p = q);
+        System.out.println(p += q);
+        System.out.println(p -= q);
+        System.out.println(p *= q);
+        System.out.println(p /= q);
         System.out.println("Unary Operators");
         p = 10;
         System.out.println(+p);

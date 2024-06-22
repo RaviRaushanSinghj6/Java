@@ -1,3 +1,5 @@
+import com.sun.jdi.PathSearchingVirtualMachine;
+
 import java.util.Scanner;
 
 public class IFELSEIF {
@@ -7,11 +9,11 @@ public class IFELSEIF {
 
         int age = sc.nextInt();
 
-        if(age<= 12){
+        if (age <= 12) {
             System.out.println("Child");
-        } else if (age<18) {
+        } else if (age < 18) {
             System.out.println("Boy");
-        }else{
+        } else {
             System.out.println("Adult");
         }
     }

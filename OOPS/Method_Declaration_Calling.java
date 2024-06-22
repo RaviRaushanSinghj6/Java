@@ -7,10 +7,8 @@ Duplicate code reduced
 Access_modifier return_type method_name(Parameter_list)
 */
 
-public class Method_Declaration_Calling
-{
-    static void welcome()
-    {
+public class Method_Declaration_Calling {
+    static void welcome() {
         System.out.println("Welcome to India");
     }
 

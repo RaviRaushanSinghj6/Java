@@ -12,12 +12,12 @@ public class DOWHILE {
 
         do {
             System.out.println(n);
-            a = a+n;
-            n+=2;
+            a = a + n;
+            n += 2;
 
         }
-        while (n<=num);
-        System.out.println("Sum of first "+num+" even numbers is "+a);
+        while (n <= num);
+        System.out.println("Sum of first " + num + " even numbers is " + a);
 
     }
 }

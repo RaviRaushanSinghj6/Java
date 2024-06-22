@@ -1,8 +1,8 @@
 public class CONTINUE {
     public static void main(String[] args) {
-        int n=1;
-        while (n<=20){
-            if(n%3==0){
+        int n = 1;
+        while (n <= 20) {
+            if (n % 3 == 0) {
                 n++;
                 continue;
             }
