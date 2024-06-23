@@ -14,6 +14,10 @@ public class ArrayExample {
         System.out.println(ages[0]);
         System.out.println(Weight[0]);
         System.out.println(Name[0]);
+    }
 
+    public static void main(String[] args) {
+        ArrayExample ae = new ArrayExample();
+        ae.Arr();
     }
 }
