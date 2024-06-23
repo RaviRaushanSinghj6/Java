@@ -6,6 +6,5 @@ public class StandardLibrary {
         System.out.println(Math.sqrt(25));
         System.out.println(Math.floor(5.4));
         System.out.println(Math.ceil(7.5));
-        return;
     }
 }
