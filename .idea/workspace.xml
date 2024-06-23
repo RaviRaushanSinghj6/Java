@@ -4,8 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afbb0822-3b15-4d32-9a7a-5b21e1f648a1" name="Changes" comment="Java Code">
+    <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/ScopeVariiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java1/Java1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-06-2024_20_08_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-06-2024_20_08__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,89 +36,69 @@
       </list>
     </option>
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="master" />
-  </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RaviRaushanSinghj6/Java.git",
-    "accountId": "8e073bf1-6d34-4d6e-b932-bafeed9620a4"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RaviRaushanSinghj6&quot;
   }
-}]]></component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2QJjTFS3bBtIIKe5u8Ze3Shpy2q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RaviRaushanSinghj6/Java.git&quot;,
+    &quot;accountId&quot;: &quot;85a192d8-1775-4b17-b7a0-893663389a42&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2iGe6KGD3PAjQaU6OKYgntF8xgv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Adding_User_Input.executor": "Run",
     "Application.BREAK.executor": "Run",
     "Application.CONTINUE.executor": "Run",
-    "Application.Call.executor": "Run",
+    "Application.Call_Class_Creation.executor": "Run",
+    "Application.Calling_Constructor.executor": "Run",
+    "Application.Conditional.executor": "Run",
     "Application.Count_Digit.executor": "Run",
+    "Application.DOWHILE.executor": "Run",
+    "Application.FOR.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.IFELSEIF.executor": "Run",
     "Application.IFElseandSwitch.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main (2).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Method_Declaration_Calling.executor": "Run",
+    "Application.Operaters.executor": "Run",
     "Application.Patterns.executor": "Run",
+    "Application.Power_Raise.executor": "Run",
+    "Application.ReadingCharacter.executor": "Run",
     "Application.Reverse_Number.executor": "Run",
+    "Application.SWITCH.executor": "Run",
+    "Application.ScopeVariiable.executor": "Debug",
+    "Application.SimpleInterest.executor": "Run",
     "Application.StandardLibrary.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "Application.Sum_Of_Digits.executor": "Run",
+    "Application.Sum_Of_Series.executor": "Run",
+    "Application.Ternary.executor": "Run",
+    "Application.WHILE.executor": "Run",
+    "Application.first.executor": "Run",
+    "Application.input.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/rraus/Desktop/STUDY MATERIALS/JAVA PROGRAMS/Java1",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "advanced.settings"
-  },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
-    ]
+    "last_opened_file_path": "E:/STUDY MATERIALS/JAVA PROGRAMS/Java1"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="CONTINUE" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="20" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="CONTINUE" />
-      <module name="Java1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Call" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.Call" />
+  <component name="RunManager" selected="Application.ScopeVariiable">
+    <configuration name="Call_Class_Creation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Call_Class_Creation" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -113,18 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-21.0.2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="OOPS.Main" />
+    <configuration name="Calling_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Calling_Constructor" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -136,20 +123,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.Main" />
-      <module name="Java1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method_Declaration_Calling" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Method_Declaration_Calling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPS.Method_Declaration_Calling" />
       <module name="Java1" />
       <extension name="coverage">
@@ -162,10 +136,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScopeVariiable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.ScopeVariiable" />
+      <module name="Java1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StandardLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="OOPS.StandardLibrary" />
+      <module name="Java1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="OOPS.*" />
@@ -178,113 +164,23 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.ScopeVariiable" />
+        <item itemvalue="Application.Calling_Constructor" />
         <item itemvalue="Application.StandardLibrary" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Call" />
+        <item itemvalue="Application.Method_Declaration_Calling" />
+        <item itemvalue="Application.Call_Class_Creation" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\rraus\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="afbb0822-3b15-4d32-9a7a-5b21e1f648a1" name="Changes" comment="" />
-      <created>1685078590617</created>
+      <changelist id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="" />
+      <created>1719121167959</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1685078590617</updated>
+      <updated>1719121167959</updated>
     </task>
-    <task id="LOCAL-00001" summary="Java Code">
-      <option name="closed" value="true" />
-      <created>1719060169549</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1719060169549</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Java Code">
-      <option name="closed" value="true" />
-      <created>1719060489299</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1719060489299</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Java Code">
-      <option name="closed" value="true" />
-      <created>1719061366339</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1719061366339</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Java Code">
-      <option name="closed" value="true" />
-      <created>1719064482622</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1719064482622</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Java Code">
-      <option name="closed" value="true" />
-      <created>1719067049691</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1719067049691</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Java Code">
-      <option name="closed" value="true" />
-      <created>1719109198359</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1719109198359</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="TEXT_FILTER_SETTINGS">
-                <TextFilterSettings>
-                  <option name="REGEX" value="true" />
-                </TextFilterSettings>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="Java Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Code" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/WHILE.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
