@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/PassByValue.java" afterDir="false" />
+    <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java">
+      <change afterPath="$PROJECT_DIR$/Arrays14/ArrayExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/ScopeVariiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/ScopeVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/OOPS/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/OOPS/Constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/OOPS/ScopeVariiable.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="RaviRaushanSinghj6 &lt;19w91a05j6cse@mriet.ac.in&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -64,6 +65,7 @@
     "Application.Main.executor": "Run",
     "Application.Method_Declaration_Calling.executor": "Run",
     "Application.Operaters.executor": "Run",
+    "Application.PassByValue.executor": "Run",
     "Application.Patterns.executor": "Run",
     "Application.Power_Raise.executor": "Run",
     "Application.ReadingCharacter.executor": "Run",
@@ -83,7 +85,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/STUDY MATERIALS/JAVA PROGRAMS/Java1"
+    "last_opened_file_path": "E:/STUDY MATERIALS/JAVA PROGRAMS/Java1",
+    "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Application.PassByValue">
@@ -203,11 +206,47 @@
       <option name="project" value="LOCAL" />
       <updated>1719162813370</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1719164045135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719164045135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1719164063075</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719164063075</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java">
+      <option name="closed" value="true" />
+      <created>1719164211659</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719164211659</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java" />
   </component>
 </project>
