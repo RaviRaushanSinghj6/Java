@@ -12,8 +12,8 @@ public class Constructor {
     }
     int add()
     {
-        int ans = a+b;
-        return ans;
+        int anss = a+b;
+        return anss;
     }
     int sub()
     {
@@ -25,8 +25,8 @@ class Calling_Constructor{
     public static void main(String[] args) {
         Constructor obj = new Constructor(5, 3);
         System.out.println("Sum of input number is : ");
-        int ans = obj.add();
-        System.out.println(ans);
+        int anss = obj.add();
+        System.out.println(anss);
 
         Constructor obj2 = new Constructor(2,5);
         System.out.println(obj2.sub());
