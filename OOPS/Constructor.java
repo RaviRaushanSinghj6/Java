@@ -16,7 +16,8 @@ public class Constructor {
     }
     int sub()
     {
-        int ans = a-b;
+        int ans;
+        ans = a-b;
         return ans;
     }
 }
