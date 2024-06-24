@@ -1,3 +1,6 @@
+//It does a certain number of passes and in each pass it compares adjacent element and swap them if they are not in correct order.
+// In every iteration part of array to be processed target number gets its current position.
+
 package Sorting; //Calling Package Sorting
 
 public class BubbleSort {
