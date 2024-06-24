@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java" />
+    <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java">
+      <change afterPath="$PROJECT_DIR$/Sorting/Bubble_Sort_problem_40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java1/Sorting/Bubble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java1/Sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/Sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java1/Sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/Sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java1/Sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/Sorting/SelectionSort.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +59,7 @@
     "Application.BREAK.executor": "Run",
     "Application.Bubble.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.Bubble_Sort_problem_40.executor": "Run",
     "Application.CONTINUE.executor": "Run",
     "Application.Call_Class_Creation.executor": "Run",
     "Application.Calling_Constructor.executor": "Run",
@@ -95,7 +103,7 @@
     "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SelectionSort">
+  <component name="RunManager" selected="Application.Bubble_Sort_problem_40">
     <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorting.Bubble" />
       <module name="Java1" />
@@ -122,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.InsertionSort" />
+    <configuration name="Bubble_Sort_problem_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.Bubble_Sort_problem_40" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -135,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.PassByValue" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.InsertionSort" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bubble_Sort_problem_40" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Bubble" />
-        <item itemvalue="Application.PassByValue" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +284,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719252818226</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java">
+      <option name="closed" value="true" />
+      <created>1719252950649</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719252950649</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java">
+      <option name="closed" value="true" />
+      <created>1719252962494</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719252962494</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java">
+      <option name="closed" value="true" />
+      <created>1719253128762</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719253128762</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
