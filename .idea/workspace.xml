@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sorting/Array_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/BubbleSort.java" afterDir="false" />
+    <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java">
+      <change afterPath="$PROJECT_DIR$/Sorting/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays14/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays14/ArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/Arrays14/ArrayExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/Arrays14/ArrayExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +75,7 @@
     "Application.SWITCH.executor": "Run",
     "Application.ScopeVariable.executor": "Run",
     "Application.ScopeVariiable.executor": "Debug",
+    "Application.SelectionSort.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
     "Application.StandardLibrary.executor": "Run",
     "Application.Sum_Of_Digits.executor": "Run",
@@ -94,7 +92,7 @@
     "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.SelectionSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
       <module name="Java1" />
@@ -147,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StandardLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.StandardLibrary" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.PassByValue" />
         <item itemvalue="Application.ScopeVariable" />
         <item itemvalue="Application.Calling_Constructor" />
-        <item itemvalue="Application.StandardLibrary" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719165204918</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;OOPS/Constructor.java">
+      <option name="closed" value="true" />
+      <created>1719240201023</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719240201023</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
