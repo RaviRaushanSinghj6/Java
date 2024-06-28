@@ -2,13 +2,13 @@ package Arrays14;
 
 public class MultiDimensionalArray {
     void multiArrays() {
-        int[][] arr1 = new int[2][20];
+        int[][] arr1 = new int[2][2];
         arr1[0][1] = 42; // Assigning a value to arr1[0][1]
         int[][] arr2 = { {5, 7, 9}, {5, 7, 8}, {8, 5, 1} };
 
         // Accessing elements
         System.out.println("Element at arr1[0][1]: " + arr1[0][1]);
-        System.out.println("Element at arr2[2][1]: " + arr2[2][1]);
+        System.out.println("Element at arr2[2][1]: " + arr2[2][1]); //Index 0,1,2
 
         // Printing arr1 using for-each loop
         System.out.println("Array arr1:");
