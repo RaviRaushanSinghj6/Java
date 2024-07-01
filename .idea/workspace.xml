@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Arrays14/MaxValueOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/MaxOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/SumOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/Adding_User_Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/Adding_User_Input.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/Arrays14/MultiDimensionalArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/Arrays14/MultiDimensionalArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/BREAK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/BREAK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/CONTINUE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/CONTINUE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/Conditional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/Conditional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/Count_Digit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/Count_Digit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/DOWHILE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/DOWHILE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java1/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java1/Factorial.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +70,7 @@
     "Application.IFElseandSwitch.executor": "Run",
     "Application.InsertionSort.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxOfArray.executor": "Run",
     "Application.MaxValueOfArray.executor": "Run",
     "Application.Method_Declaration_Calling.executor": "Run",
     "Application.MultiDimensionalArray.executor": "Run",
@@ -94,6 +88,7 @@
     "Application.SelectionSort.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
     "Application.StandardLibrary.executor": "Run",
+    "Application.SumOfArray.executor": "Run",
     "Application.Sum_Of_Digits.executor": "Run",
     "Application.Sum_Of_Series.executor": "Run",
     "Application.Ternary.executor": "Run",
@@ -112,26 +107,13 @@
     "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaxValueOfArray">
-    <configuration name="Bubble_Sort_MoveZeros_problem_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.Bubble_Sort_MoveZeros_problem_40" />
+  <component name="RunManager" selected="Application.MaxOfArray">
+    <configuration name="MaxOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.MaxOfArray" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bubble_Sort_problem_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.Bubble_Sort_problem_40" />
-      <module name="Java1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Arrays14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,13 +160,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.SumOfArray" />
+      <module name="Java1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxOfArray" />
+        <item itemvalue="Application.SumOfArray" />
         <item itemvalue="Application.MaxValueOfArray" />
         <item itemvalue="Application.MultiDimensionalArray" />
         <item itemvalue="Application.PrintingArray" />
-        <item itemvalue="Application.Bubble_Sort_MoveZeros_problem_40" />
-        <item itemvalue="Application.Bubble_Sort_problem_40" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719595968991</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1719598231207</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719598231207</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
