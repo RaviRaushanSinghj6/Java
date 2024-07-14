@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Arrays14/MaxOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays14/SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/SearchInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +84,8 @@
     "Application.SWITCH.executor": "Run",
     "Application.ScopeVariable.executor": "Run",
     "Application.ScopeVariiable.executor": "Debug",
+    "Application.SeachInArray.executor": "Run",
+    "Application.SearchInArray.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
     "Application.StandardLibrary.executor": "Run",
@@ -107,7 +108,7 @@
     "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaxOfArray">
+  <component name="RunManager" selected="Application.SearchInArray">
     <configuration name="MaxOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays14.MaxOfArray" />
       <module name="Java1" />
@@ -134,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays14.MultiDimensionalArray" />
+    <configuration name="SeachInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.SeachInArray" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays14.PrintingArray" />
+    <configuration name="SearchInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.SearchInArray" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -175,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInArray" />
+        <item itemvalue="Application.SeachInArray" />
         <item itemvalue="Application.MaxOfArray" />
         <item itemvalue="Application.SumOfArray" />
         <item itemvalue="Application.MaxValueOfArray" />
-        <item itemvalue="Application.MultiDimensionalArray" />
-        <item itemvalue="Application.PrintingArray" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +377,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719598231207</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1719854493499</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1719854493499</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1719854555083</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1719854555083</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
