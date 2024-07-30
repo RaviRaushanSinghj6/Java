@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Arrays14/SearchInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/Array_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/Array_Reference_Deep_Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/Array_Reference_Shallow_Copy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +54,9 @@
   "keyToString": {
     "Application.Adding_User_Input.executor": "Run",
     "Application.ArrayExample.executor": "Run",
+    "Application.Array_Input.executor": "Run",
+    "Application.Array_Reference_Deep_Copy.executor": "Run",
+    "Application.Array_Reference_Shallow_Copy.executor": "Run",
     "Application.BREAK.executor": "Run",
     "Application.Bubble.executor": "Run",
     "Application.BubbleSort.executor": "Run",
@@ -108,9 +113,9 @@
     "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SearchInArray">
-    <configuration name="MaxOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays14.MaxOfArray" />
+  <component name="RunManager" selected="Application.Array_Reference_Deep_Copy">
+    <configuration name="Array_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.Array_Input" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +127,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxValueOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays14.MaxValueOfArray" />
+    <configuration name="Array_Reference_Deep_Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.Array_Reference_Deep_Copy" />
+      <module name="Java1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_Reference_Shallow_Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.Array_Reference_Shallow_Copy" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -161,26 +179,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays14.SumOfArray" />
-      <module name="Java1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_Reference_Deep_Copy" />
+        <item itemvalue="Application.Array_Reference_Shallow_Copy" />
+        <item itemvalue="Application.Array_Input" />
         <item itemvalue="Application.SearchInArray" />
         <item itemvalue="Application.SeachInArray" />
-        <item itemvalue="Application.MaxOfArray" />
-        <item itemvalue="Application.SumOfArray" />
-        <item itemvalue="Application.MaxValueOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719854555083</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1720931076947</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1720931076947</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
