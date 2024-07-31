@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Arrays14/Array_Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays14/Array_Reference_Deep_Copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays14/Array_Reference_Shallow_Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/Counting_Occurrences_of_Target_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/Last_Occurrence_of_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/Other Method Of Coping Array.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -67,12 +68,14 @@
     "Application.Calling_Constructor.executor": "Run",
     "Application.Conditional.executor": "Run",
     "Application.Count_Digit.executor": "Run",
+    "Application.Counting_Occouranes_of_Tearget_Element.executor": "Run",
     "Application.DOWHILE.executor": "Run",
     "Application.FOR.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.IFELSEIF.executor": "Run",
     "Application.IFElseandSwitch.executor": "Run",
     "Application.InsertionSort.executor": "Run",
+    "Application.Last_Occurrence_of_element.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxOfArray.executor": "Run",
     "Application.MaxValueOfArray.executor": "Run",
@@ -101,19 +104,21 @@
     "Application.WHILE.executor": "Run",
     "Application.first.executor": "Run",
     "Application.input.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/STUDY MATERIALS/JAVA PROGRAMS/Java1",
     "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Array_Reference_Deep_Copy">
+  <component name="RunManager" selected="Application.Last_Occurrence_of_element">
     <configuration name="Array_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays14.Array_Input" />
       <module name="Java1" />
@@ -153,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeachInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays14.SeachInArray" />
+    <configuration name="Counting_Occouranes_of_Tearget_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.Counting_Occouranes_of_Tearget_Element" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -166,8 +171,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays14.SearchInArray" />
+    <configuration name="Last_Occurrence_of_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.Last_Occurrence_of_element" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -181,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Last_Occurrence_of_element" />
+        <item itemvalue="Application.Counting_Occouranes_of_Tearget_Element" />
         <item itemvalue="Application.Array_Reference_Deep_Copy" />
         <item itemvalue="Application.Array_Reference_Shallow_Copy" />
         <item itemvalue="Application.Array_Input" />
-        <item itemvalue="Application.SearchInArray" />
-        <item itemvalue="Application.SeachInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720931076947</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1722307075399</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1722307075399</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
