@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa98457-c692-4667-b672-5726735a33cb" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Arrays14/SmallestAndSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays14/FindPairSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays14/SmallestAndSecondLargest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +75,7 @@
     "Application.DOWHILE.executor": "Run",
     "Application.FOR.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.FindPairSum.executor": "Run",
     "Application.IFELSEIF.executor": "Run",
     "Application.IFElseandSwitch.executor": "Run",
     "Application.InsertionSort.executor": "Run",
@@ -121,20 +123,7 @@
     "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SmallestAndSecondLargest">
-    <configuration name="Array_Reference_Deep_Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays14.Array_Reference_Deep_Copy" />
-      <module name="Java1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FindPairSum">
     <configuration name="Count_Greater_Values_Than_X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays14.Count_Greater_Values_Than_X" />
       <module name="Java1" />
@@ -150,6 +139,19 @@
     </configuration>
     <configuration name="Counting_Occouranes_of_Tearget_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays14.Counting_Occouranes_of_Tearget_Element" />
+      <module name="Java1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindPairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays14.FindPairSum" />
       <module name="Java1" />
       <extension name="coverage">
         <pattern>
@@ -189,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindPairSum" />
         <item itemvalue="Application.SmallestAndSecondLargest" />
         <item itemvalue="Application.Count_Greater_Values_Than_X" />
         <item itemvalue="Application.Last_Occurrence_of_element" />
         <item itemvalue="Application.Counting_Occouranes_of_Tearget_Element" />
-        <item itemvalue="Application.Array_Reference_Deep_Copy" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722911426109</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1723083496247</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1723083496247</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
